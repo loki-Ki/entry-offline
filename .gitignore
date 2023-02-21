@@ -18,3 +18,5 @@ src/*_build
 # specifics
 build/*.exe
 *.log
+
+bower.json

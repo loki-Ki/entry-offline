@@ -67,6 +67,16 @@ yarn start
 [Entry Docs](https://entrylabs.github.io/docs/guide/entry-offline/2017-12-20-getting_started.html)
 
 
+
+
+
+
+## 세팅 및 실행
+1. yarn install
+2. bower init
+3. bower install
+
+
 ## Copyright and License
 
 Entry-Offline Copyright(c) 2018 CONNECT.
